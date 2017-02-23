@@ -1,0 +1,2 @@
+## Simple sports classifier
+Suppose that we have a short description of an event that may be related to some sports. We would like to classify each such description as being non-sport or referring to a particular sports type. 
